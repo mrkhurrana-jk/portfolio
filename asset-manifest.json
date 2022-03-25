@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c56f2226.css",
+    "main.js": "/portfolio/static/js/main.95cecad5.js",
+    "static/js/787.a26b4824.chunk.js": "/portfolio/static/js/787.a26b4824.chunk.js",
+    "static/media/videobg.mp4": "/portfolio/static/media/videobg.dd3b3be7c134d718a3a8.mp4",
+    "static/media/pythonhr.png": "/portfolio/static/media/pythonhr.c577f406e876bbf46ea3.png",
+    "static/media/wordpress.png": "/portfolio/static/media/wordpress.908cf0c8c0f2a1e5c6c4.png",
+    "static/media/guvi.png": "/portfolio/static/media/guvi.eaf254073bd69d77f629.png",
+    "static/media/ciscocs1.png": "/portfolio/static/media/ciscocs1.147f340454138acb1d2a.png",
+    "static/media/ciscocs2.png": "/portfolio/static/media/ciscocs2.e5df70aabe5cb5a91b74.png",
+    "static/media/Jatin.jpg": "/portfolio/static/media/Jatin.e936a833af3adfc7ac68.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.c56f2226.css.map": "/portfolio/static/css/main.c56f2226.css.map",
+    "main.95cecad5.js.map": "/portfolio/static/js/main.95cecad5.js.map",
+    "787.a26b4824.chunk.js.map": "/portfolio/static/js/787.a26b4824.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c56f2226.css",
+    "static/js/main.95cecad5.js"
+  ]
+}
