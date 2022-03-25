@@ -1,0 +1,126 @@
+.portfolio_career
+{
+    /* margin-top: -1.5rem; */
+    background-color: white;
+    color: black;
+}
+
+.portfolio_career-heading h1
+{
+    margin: 0;
+    padding-top: 1.5rem;
+    text-align: center;
+}
+
+.career-divison
+{
+    display: flex;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.subheadings
+{
+    font-size: 25px;
+    font-weight: 800;
+    border-bottom: 5px solid orange;
+    margin-left: 200px;
+    text-align: left;
+    /* padding-bottom: -2rem; */
+    height: 2.4rem;
+}
+
+
+.subheadings-content-1
+{
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-left: 7rem;
+    text-align: left;
+}
+
+.subcontent
+{
+    /* margin-left: 419px; */
+    font-size: 18px;
+    font-weight: 580;
+    /* text-align: left; */
+}
+
+/* .subheadings-2
+{
+    font-size: 25px;
+    font-weight: 800;
+    border-bottom: 5px solid orange;
+    padding-bottom: -2rem;
+    height: 2.4rem;
+    display: flex;
+    width: max-content;
+    margin-left: 200px;
+    margin-top: 2rem;
+} */
+
+.subheadings-content-2
+{
+    margin-top: 12rem;
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-left: 4rem;
+    text-align: left;
+}
+
+.subcontent-2
+{
+    /* margin-left: 419px; */
+    font-size: 18px;
+    font-weight: 580;
+    margin-left: 26.55rem;
+    /* text-align: left; */
+}
+
+.subheadings-content-3
+{
+    margin-top: .75rem;
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-left: 26.5rem;
+    text-align: left;
+}
+
+.subcontent-3
+{
+    /* margin-left: 419px; */
+    font-size: 18px;
+    font-weight: 580;
+    margin-left: 0rem;
+    /* text-align: left; */
+}
+
+
+.subheadings-content-4
+{
+    margin-top: 1.5rem;
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-left: 10.15rem;
+    text-align: left;
+   
+}
+
+.skills
+{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+
+.progressbars
+{
+    display: flex;
+    margin-left: 26rem;
+    text-align: center;
+    font-size: large;
+    font-weight: 600;
+    width: 60%;
+}
+

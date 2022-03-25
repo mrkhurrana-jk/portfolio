@@ -1,0 +1,22 @@
+.portfolio_certification
+{
+    background-color: black;
+}
+
+.portfolio_certification-heading
+{
+    text-align: center;
+}
+
+.portfolio_certificates
+{
+    text-align: center;
+    width: 70%;
+    justify-content: center;
+    margin: auto;
+}
+
+.portfolio_certificates img
+{
+    width: 70%;
+}

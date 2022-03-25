@@ -1,0 +1,88 @@
+.portfolio_contactme
+{
+    background-color: rgb(77, 116, 121);
+    height: 39rem;
+}
+
+.portfolio_contactme_heading 
+{
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.portfolio_contactme_heading h1
+{
+    padding-top: 2rem;
+}
+
+.contactme_info
+{
+    font-size: 1.25rem;
+}
+
+.portfolio_contactme-form form
+{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin: auto;
+    margin-top: 1rem;
+}
+
+form input, textarea
+{
+    font-size: large;
+    font-family: 'Baloo 2', cursive;
+    text-align: center;
+    margin: .2rem;
+    border-radius: .5rem;
+}
+
+button
+{
+    width: 50%;
+    margin: auto;
+    font-size: large;
+    font-family: 'Baloo 2', cursive;
+    margin-top: 1rem;
+    border-radius: .5rem;
+    background-color: aquamarine;
+    transition: .5s ease;
+}
+
+button:hover
+{
+    background-color: black;
+    color: white;
+}
+
+
+.contactme-socialmedia
+{
+    width: 100%;
+    margin: auto;
+    margin-top: 3rem;
+    justify-content: center;
+    text-align: center;
+    /* margin-left: .5rem; */
+}
+
+.contactme-icons
+{
+    color: white;
+    /* opacity: 0; */
+    transition: 0.5s ease;
+    cursor: pointer;
+}
+.contactme-icons:hover
+{
+    color: #569094;
+}
+
+footer
+{
+    text-align: center;
+    font-size: 1.2rem;
+    margin-top: 2rem;
+    margin-bottom: 0;
+}

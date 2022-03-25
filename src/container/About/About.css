@@ -1,0 +1,34 @@
+.portfolio_about-heading
+{
+    text-align: center;
+}
+.portfolio_about
+{
+    background-color: #2B2B2B;
+    margin-top: 6rem;
+    display: flex;
+    flex-direction: column;
+    height: 32rem;
+}
+
+.portfolio_about-content
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.portfolio_about-content-img 
+{
+    width: 30%;
+}
+
+.portfolio_about-content-img img
+{
+    width: 80%;
+    border-radius: 20rem;
+}
+.portfolio_about-content-info
+{
+    width: 55%;
+    text-align: justify;
+}

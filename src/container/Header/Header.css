@@ -1,0 +1,107 @@
+.portfolio_header
+{
+    margin-top: 12rem;
+}
+
+.portfolio_header-videobg video
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 100%;
+    /* height: max-content; */
+}
+
+.hey
+{
+    text-align: center;
+    font-size: 65px;
+    Letter-spacing: 5px;
+    color: #fff;
+    text-shadow: 0 0 10px #03bcf4;
+    margin: 15px 0;
+}
+
+.heading {
+    position: relative;
+    font-size: 95px;
+    
+    color: #0e3742;
+    text-transform: uppercase;
+    width: 100%;
+    text-align: center;
+    -webkit-box-reflect: below 1px linear-gradient(transparent,#000800) ;
+    Line-height: 0.70em;
+    outline: none;
+   
+
+    border-right: solid 3px rgba(0, 255, 0, .75);
+    white-space: nowrap;
+    overflow: hidden;
+    margin: 10px auto;
+    animation: animated-text 4s steps(30, end) 1s 1 normal both,
+        animated-cursor 600ms steps(29, end) infinite, jatin 5s linear 1 5.3s forwards;
+    }
+
+     @keyframes jatin
+     {
+          0%,18%,20%,50.1%,60%,65.1%,80%,90.1%,92%   
+          {
+              color: #0e3742;
+              box-shadow: none;
+              overflow: visible;
+            }
+            
+            18.1%,20.1%,30%,50%,60.1%,65%,80.1%,90.1%,92.1%,100%
+            {
+                overflow: visible;
+                color: #fff;
+              text-shadow: 0 0 10px #03bcf4,
+              0 0 20px #03bcf4,
+              0 0 40px #03bcf4,
+              0 0 80px #03bcf4,
+              0 0 160px #03bcf4;
+          }
+     } 
+
+     
+@keyframes animated-text {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 1135px;
+    }
+} 
+
+
+
+@keyframes animated-cursor {
+    from {
+        border-right-color: rgba(0, 255, 0, .75);
+    }
+
+    to {
+        border-right-color: transparent;
+    }
+} 
+
+.socialmedia
+{
+    margin-top: 12rem;
+    text-align: center;
+}
+
+.icons
+{
+    color: white;
+    /* opacity: 0; */
+    transition: 0.5s ease;
+    cursor: pointer;
+}
+.icons:hover
+{
+    color: #569094;
+}

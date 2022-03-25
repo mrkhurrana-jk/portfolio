@@ -1,0 +1,38 @@
+.portfolio_navbar
+{
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    background: vi;
+}
+
+.portfolio_navbar-links
+{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+.portfolio_navbar-links li
+{
+    margin: 0 2rem;
+    font-size: 1.1rem;
+}
+
+.portfolio_navbar-links li a{
+    text-decoration: none;
+    color: white;
+    transition: all 0.5 ease;
+    z-index: 1;
+}
+
+.portfolio_navbar-links li a:hover
+{
+    color: rgb(110, 182, 187);
+}
+
+.active
+{
+    color: rgb(110, 182, 187);
+    text-decoration: underline;
+}
